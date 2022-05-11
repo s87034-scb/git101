@@ -1,2 +1,1 @@
-# git101
-git101 - make conflict
+git101 - make conflict 101
